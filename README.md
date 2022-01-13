@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neha-Gawde
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning typescript, next js, django, python
+- 🌱 I’m currently learning gatsby js,typescript, next js, django, python
 - 💞️ I’m looking to collaborate on react js and javascript 
 - 📫 email- neha931999gawde@gmail.com
     
